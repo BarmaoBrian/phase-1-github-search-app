@@ -1,13 +1,13 @@
 #main {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: flex ;
+  flex-direction: column ;
+  align-items: center ;
 }
 
 #github-container {
-  display: flex;
+  display: flex ;
 }
 
 ul {
-  list-style: none;
+   list-style: none ;
 }
